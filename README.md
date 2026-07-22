@@ -21,7 +21,6 @@ About Me
 ### Statistics
 - Statistical Modelling
 - Hypothesis Testing
-- Probability Distributions
 - Data Cleaning
 - Exploratory Data Analysis (EDA)
 
