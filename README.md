@@ -1,4 +1,4 @@
-# Hi, I'm Siyamthanda Tshangela 👋
+# Hi, I'm Siyamthanda Tshangela 
 
 ## **BSc Applied Statistics | Data Analyst**
 
@@ -12,32 +12,32 @@ About Me
   
 ## Technical Skills
 
-### 📊 Data Analysis
+### Data Analysis
 - Python
 - SQL
 - R
 - Microsoft Excel
 
-### 📈 Statistics
+### Statistics
 - Statistical Modelling
 - Hypothesis Testing
 - Probability Distributions
 - Data Cleaning
 - Exploratory Data Analysis (EDA)
 
-### 💻 Programming
+### Programming
 - Python
 - SQL
 - R
 
-### 🗄️ Databases
+### Databases
 - SQLite
 
 
-### 📊 Data Visualization
+### Data Visualization
 - Excel Dashboards
 
-### ⚙️ Tools
+### Tools
 - VS Code
 - Jupyter Notebook
 - RStudio
@@ -46,10 +46,10 @@ About Me
 
 ## Current Work
 
-- 📊 Python Data Analysis Projects
-- 🧹 Data Cleaning & Transformation & Visualization
-- 📈 Business Analytics
-- 📉 Statistical Modelling
+- Python Data Analysis Projects
+- Data Cleaning & Transformation & Visualization
+- Business Analytics
+- Statistical Modelling
 
 ## Currently Learning
 
