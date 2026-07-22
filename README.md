@@ -30,13 +30,6 @@ About Me
 - SQL
 - R
 
-### Databases
-- SQLite
-
-
-### Data Visualization
-- Excel Dashboards
-
 ### Tools
 - VS Code
 - Jupyter Notebook
