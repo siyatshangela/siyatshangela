@@ -55,7 +55,7 @@ I'm continuously expanding my knowledge in:
 
 ## Connect 
 
-- **LinkedIn:** [Your LinkedIn](https://linkedin.com/in/yourprofile)
+- **LinkedIn:** [Siyamthanda Tshangela](https://linkedin.com/in/yourprofile)
 - **Email:** tshangelasiyamthanda@gmail.com
 
 
